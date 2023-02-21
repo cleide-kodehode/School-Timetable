@@ -1,0 +1,22 @@
+h1 {
+  margin-left: 350px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  align-items: center;
+}
+
+table {
+  text-align:center;
+  width: 700px;
+  height: 300px;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}
